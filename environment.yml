@@ -1,0 +1,8 @@
+name: password-manager-env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - flask
+  - requests
+  # add other required packages here
